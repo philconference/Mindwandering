@@ -57,7 +57,7 @@ nav a:hover {
   width: 100%;
   height: 500px;
   top: 80px;
-  background-image: url("banner website MW.png");
+  background-image: url("Banner website MW.png");
   background-size: cover;
   background-position: center center;
 }
@@ -66,7 +66,7 @@ nav a:hover {
   width: 100%;
   height: 300px;
   top: 80px;
-  background-image: url("banner website MW.png");
+  background-image: url("Banner website MW.png");
   background-size: cover;
   background-position: center center;
 }
@@ -185,19 +185,13 @@ nav a:hover {
     .banner-area {
       width: 485px;
       height: 150px;
-      top: 80px;
-      background-image: url("Pics/Banner\ website\ MW.png");
-      background-size: cover;
-      background-position: center center;
+     
     }
     
     .banner-area2{
       width: 485px;
       height: 150px;
-      top: 80px;
-      background-image: url("banner website MW.png");
-      background-size: cover;
-      background-position: center center;
+      
     }   
     .content-area1{
       margin: 30px;
@@ -237,18 +231,14 @@ nav a:hover {
       width: 500x;
       height: 150px;
       top: 80px;
-      background-image: url("banner website MW.png");
-      background-size: cover;
-      background-position: center center;
+      
     }
     
     .banner-area2{
       width: 500px;
       height: 150px;
       top: 80px;
-      background-image: url("banner website MW.png");
-      background-size: cover;
-      background-position: center center;
+    
     }   
     .content-area1{
       margin: 30px;
