@@ -102,6 +102,7 @@ nav a:hover {
 
 .content-area2{
   background-color: rgb(221, 173, 168);
+  text-align:justify;
   margin: 50px;
   padding: 5px;
 }
