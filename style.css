@@ -35,7 +35,6 @@ header {
 
 nav{
   float: right;
-  margin-right: 20px;
   line-height: 80px;
 }
 
@@ -246,6 +245,8 @@ nav a:hover {
   /*Programme*/
      
   @media screen and (max-width: 500px) {
+      
+    
     .logo a {
       font-size: 10px;
       letter-spacing: normal;
