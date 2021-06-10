@@ -131,6 +131,11 @@ nav a:hover {
   margin: 50px 100px 50px 100px; 
 }
 
+.content-area4 btn {
+  position: relative;
+  margin: 50px 100px 50px 100px; 
+}
+
 .content-area5 {
   background-color: #e0dede;
   padding: 8px;
@@ -239,8 +244,7 @@ nav a:hover {
   }
 
   /*Programme*/
-  
-   
+     
   @media screen and (max-width: 500px) {
     .logo a {
       font-size: 10px;
@@ -275,18 +279,18 @@ nav a:hover {
       background-position: center center;
     }   
     .content-area1{
-      margin: 30px;
+      margin: 10px;
       text-align: left;
       font-size: 14px;
     }
     .content-area2{
-      margin: 30px;
+      margin: 10px;
       text-align: left;
       font-size: 14px;
       padding:4px;
     }
     .content-area3{
-      margin: 30px;
+      margin: 10px;
       text-align: left;
       font-size: 14px;
     }    
@@ -342,18 +346,18 @@ nav a:hover {
       background-position: center center;
     }   
     .content-area1{
-      margin: 30px;
+      margin: 10px;
       text-align: left;
       font-size: 14px;
     }
     .content-area2{
-      margin: 30px;
+      margin: 10px;
       text-align: left;
       font-size: 14px;
       padding:4px;
     }
     .content-area3{
-      margin: 30px;
+      margin: 10px;
       text-align: left;
       font-size: 14px;
     }        
@@ -363,12 +367,12 @@ nav a:hover {
     } 
     
     .content-area5{
-      margin: 30px;
+      margin: 10px;
       text-align: left;
       font-size: 14px;
     } 
     .content-area6{
-      margin: 30px;
+      margin: 10px;
       text-align: left;
       font-size: 14px;
     } 
