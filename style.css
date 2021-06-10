@@ -132,7 +132,7 @@ nav a:hover {
 }
 
 .content-area4 btn {
-  position: relative;
+  position: centre;
   margin: 50px 100px 50px 100px; 
 }
 
@@ -279,25 +279,24 @@ nav a:hover {
       background-position: center center;
     }   
     .content-area1{
-      margin: 10px;
+      margin: 50px 50px 50px 50px;
       text-align: left;
       font-size: 14px;
     }
     .content-area2{
-      margin: 10px;
+      margin: 50px 50px 50px 50px;
       text-align: left;
       font-size: 14px;
       padding:4px;
     }
     .content-area3{
-      margin: 10px;
+      margin: 50px 50px 50px 50px;
       text-align: left;
       font-size: 14px;
     }    
-
        
       .content-area5  p {
-      margin: 10px;
+      margin: 50px 50px 50px 50px;
       text-align: justify;
       font-size: 13px;
     }
@@ -346,18 +345,18 @@ nav a:hover {
       background-position: center center;
     }   
     .content-area1{
-      margin: 10px;
+       margin: 50px 50px 50px 50px;
       text-align: left;
       font-size: 14px;
     }
     .content-area2{
-      margin: 10px;
+       margin: 50px 50px 50px 50px;
       text-align: left;
       font-size: 14px;
       padding:4px;
     }
     .content-area3{
-      margin: 10px;
+       margin: 50px 50px 50px 50px;
       text-align: left;
       font-size: 14px;
     }        
@@ -367,7 +366,7 @@ nav a:hover {
     } 
     
     .content-area5{
-      margin: 10px;
+      margin: 50px 50px 50px 50px;
       text-align: left;
       font-size: 14px;
     } 
