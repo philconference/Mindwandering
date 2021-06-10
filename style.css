@@ -36,6 +36,7 @@ header {
 nav{
   float: right;
   line-height: 80px;
+   margin: 0;
 }
 
 nav a {
@@ -208,7 +209,8 @@ nav a:hover {
       background-color: rgb(45, 96, 119); 
       text-align: center; 
       padding: 2px; 
-      font-family: sans-serif; }
+      font-family: sans-serif;
+       margin: 0}
   
   .contact-icon {
     display: inline-flex;
