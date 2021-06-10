@@ -91,7 +91,6 @@ nav a:hover {
   text-align: center;
 }
 
-
 .content-area1 p {
   text-align:justify;
   line-height: 1.5;
@@ -128,8 +127,8 @@ nav a:hover {
   font-family: Helvetica;
 }
 .content-area4 p {
-  position: center;
-  margin: 50px 200px 50px 200px; 
+  position: relative;
+  margin: 50px 100px 50px 100px; 
 }
 
 .content-area5 {
