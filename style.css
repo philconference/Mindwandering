@@ -55,11 +55,14 @@ nav a:hover {
 
 .banner-area {
   width: 100%;
-  height: 600px;
+  height: 500px;
   top: 80px;
-  background-image: url("Banner website MW.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
   background-size: cover;
-  background-position: center center;
+  position: relative;
+  background-image: url("Banner website MW.jpg");
+  
 }
 
 .wrapper {  
