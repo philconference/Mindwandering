@@ -241,7 +241,7 @@ nav a:hover {
   @media screen and (max-width: 500px) {
       
     .logo {
-  width: 10%;
+  width: 15%;
  
 }
 
@@ -302,6 +302,11 @@ nav a:hover {
   }
 
   @media screen and (max-width: 600px) {
+      
+    .logo {
+  width: 15%;
+ 
+}
     .logo a {
       font-size: 10px;
       letter-spacing: normal;
