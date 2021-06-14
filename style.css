@@ -267,8 +267,10 @@ nav a:hover {
       height: 150px;
       top: 80px;
       background-image: url("Pics/Banner website MW.jpg");
-      background-size: cover;
-      background-position: center center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
     }        
     .content-area1{
       margin: 50px 50px 50px 50px;
