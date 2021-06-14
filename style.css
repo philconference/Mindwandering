@@ -62,15 +62,6 @@ nav a:hover {
   background-position: center center;
 }
 
-.banner-area2{
-  width: 100%;
-  height: 300px;
-  top: 80px;
-  background-image: url("Banner website MW.png");
-  background-size: cover;
-  background-position: center center;
-}
-
 .wrapper {  
   
 }
@@ -271,16 +262,7 @@ nav a:hover {
       background-image: url("Pics/Banner\ website\ MW.png");
       background-size: cover;
       background-position: center center;
-    }
-    
-    .banner-area2{
-      width: 485px;
-      height: 150px;
-      top: 80px;
-      background-image: url("Pics/Banner\ website\ MW.png");
-      background-size: cover;
-      background-position: center center;
-    }   
+    }        
     .content-area1{
       margin: 50px 50px 50px 50px;
       text-align: left;
@@ -331,7 +313,7 @@ nav a:hover {
       font-size: 15px;
     }
     .banner-area {
-      width: 500x;
+      width: 485px;
       height: 150px;
       top: 80px;
       background-image: url("Pics/Banner\ website\ MW.png");
@@ -339,15 +321,7 @@ nav a:hover {
       background-position: center center;
     }
     
-    .banner-area2{
-      width: 500px;
-      height: 150px;
-      top: 80px;
-      background-image: url("Pics/Banner\ website\ MW.png");
-      background-size: cover;
-      background-position: center center;
-    }   
-    .content-area1{
+        .content-area1{
        margin: 50px 50px 50px 50px;
       text-align: left;
       font-size: 14px;
