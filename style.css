@@ -325,9 +325,8 @@ nav a:hover {
       font-size: 15px;
     }
     .banner-area {
-      width: 100%;
-      height: 150px;
-      top: 80px;
+      width: 50%;
+      height: 50%;
       background-image: url("Pics/Banner website MW.jpg");
       background-size: cover;
       background-position: center center;
